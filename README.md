@@ -1,2 +1,1 @@
-#register
-注册中心
+一个简单的spring cloud 示例
